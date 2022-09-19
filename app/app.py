@@ -293,8 +293,8 @@ with gr.Blocks(css=css) as demo:
 
     # Audio object for both file and microphone data
     with gr.Box():
-        audio_file = gr.Audio(interactive=True)
-        mic_recording = gr.Audio(source="microphone", visible=False, interactive=True)
+        audio_file = gr.Audio()
+        mic_recording = gr.Audio(source="microphone", visible=False)
 
     # Audio wave plot
     audio_wave = gr.Plot(plot.value)
