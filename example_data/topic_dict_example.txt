@@ -1,0 +1,94 @@
+{
+  'Automotive': {
+    'AutoRecalls': {
+      None: None
+    },
+    'AutoSafety': {
+      None: None
+    },
+    'AutoTechnology': {
+      'AutoSafetyTechnologies': {
+        None: None
+      }
+    },
+    'AutoType': {
+      'DriverlessCars': {
+        None: None
+      }
+    }
+  },
+  'BusinessAndFinance': {
+    'Business': {
+      'BusinessAdministration': {
+        None: None
+      }
+    },
+    'Industries': {
+      'TelecommunicationsIndustry': {
+        None: None
+      }
+    }
+  },
+  'Education': {
+    'CollegeEducation': {
+      'PostgraduateEducation': {
+        None: None
+      },
+      'UndergraduateEducation': {
+        None: None
+      }
+    }
+  },
+  'HealthyLiving': {
+    'FitnessAndExercise': {
+      'ParticipantSports': {
+        None: None
+      }
+    }
+  },
+  'MedicalHealth': {
+    'CosmeticMedicalServices': {
+      None: None
+    },
+    'DiseasesAndConditions': {
+      'BoneAndJointConditions': {
+        None: None
+      },
+      'Ear,NoseAndThroatConditions': {
+        None: None
+      },
+      'Injuries': {
+        None: None
+      }
+    },
+    'Surgery': {
+      None: None
+    }
+  },
+  'NewsAndPolitics': {
+    'Politics': {
+      None: None
+    }
+  },
+  'Sports': {
+    'Basketball': {
+      None: None
+    },
+    'Boxing': {
+      None: None
+    },
+    'CollegeSports': {
+      None: None,
+      'CollegeBasketball': {
+        None: None
+      }
+    }
+  },
+  'Technology&Computing': {
+    'ConsumerElectronics': {
+      'Smartphones': {
+        None: None
+      }
+    }
+  }
+}

@@ -1,0 +1,5069 @@
+{
+  "id": "[REDACTED]",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en",
+  "status": "completed",
+  "audio_url": "[REDACTED]",
+  "text": "You will never believe what happened to me last week. My SUV broke down, so I had to send it to an auto shop to get a new gasket installed. Yesterday I was walking in South Boston to pick the car up and some guy got thrown through the window of a pub right in front of me. A few guys had been drinking and they got into an argument about the Red Sox, which resulted in a fight. When I went to break up the fight, one of the guys accidentally hit me with his elbow in the face, so I fell back and ##### ## #####. I went to the emergency room and had to get surgery, which sucks because I have to wear a cast for two weeks and it cost me almost $#,###. My wrist still feels like s***, and I've had to take ##### all week. Besides that, things are pretty good. I started my master's degree in Political Science, which I'm excited about. The school has a great program, and I've already met a lot of good professors. After the program, I'm going to go to law school, so it will help prepare me for that. The other good news is that I get to keep playing basketball while I'm in school. Usually people stop playing after undergrad, but I get to keep playing while I earn my degree, which is great. The program has a ton of good nutrition and physical therapy resources, too. I'm really excited to start playing on my new team. As for this weekend, I don't have much going on. I have to call the phone company to see if I can get a new phone. The battery on my phone is broken, so I want to get it replaced. What are you doing this weekend?",
+  "words": [
+    {
+      "text": "You",
+      "start": 1150,
+      "end": 1278,
+      "confidence": 0.57747,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 1304,
+      "end": 1458,
+      "confidence": 0.96249,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 1484,
+      "end": 1710,
+      "confidence": 0.9987,
+      "speaker": "A"
+    },
+    {
+      "text": "believe",
+      "start": 1760,
+      "end": 2046,
+      "confidence": 0.99859,
+      "speaker": "A"
+    },
+    {
+      "text": "what",
+      "start": 2108,
+      "end": 2334,
+      "confidence": 0.99941,
+      "speaker": "A"
+    },
+    {
+      "text": "happened",
+      "start": 2372,
+      "end": 2610,
+      "confidence": 0.99077,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 2660,
+      "end": 2838,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 2864,
+      "end": 3440,
+      "confidence": 0.99974,
+      "speaker": "A"
+    },
+    {
+      "text": "last",
+      "start": 3770,
+      "end": 4206,
+      "confidence": 0.99996,
+      "speaker": "A"
+    },
+    {
+      "text": "week.",
+      "start": 4268,
+      "end": 4674,
+      "confidence": 0.99996,
+      "speaker": "A"
+    },
+    {
+      "text": "My",
+      "start": 4772,
+      "end": 5034,
+      "confidence": 0.99918,
+      "speaker": "A"
+    },
+    {
+      "text": "SUV",
+      "start": 5072,
+      "end": 5590,
+      "confidence": 0.83872,
+      "speaker": "A"
+    },
+    {
+      "text": "broke",
+      "start": 5650,
+      "end": 5938,
+      "confidence": 0.9978,
+      "speaker": "A"
+    },
+    {
+      "text": "down,",
+      "start": 5974,
+      "end": 6390,
+      "confidence": 0.99924,
+      "speaker": "A"
+    },
+    {
+      "text": "so",
+      "start": 6500,
+      "end": 6738,
+      "confidence": 0.99848,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 6764,
+      "end": 6882,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 6896,
+      "end": 7002,
+      "confidence": 0.99241,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 7016,
+      "end": 7158,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "send",
+      "start": 7184,
+      "end": 7338,
+      "confidence": 0.9943,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 7364,
+      "end": 7482,
+      "confidence": 0.98874,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 7496,
+      "end": 7602,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 7616,
+      "end": 7758,
+      "confidence": 0.97854,
+      "speaker": "A"
+    },
+    {
+      "text": "auto",
+      "start": 7784,
+      "end": 8062,
+      "confidence": 0.93428,
+      "speaker": "A"
+    },
+    {
+      "text": "shop",
+      "start": 8086,
+      "end": 8310,
+      "confidence": 0.99507,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 8360,
+      "end": 8538,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 8564,
+      "end": 8682,
+      "confidence": 0.99956,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 8696,
+      "end": 8802,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "new",
+      "start": 8816,
+      "end": 8958,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "gasket",
+      "start": 8984,
+      "end": 9478,
+      "confidence": 0.49303,
+      "speaker": "A"
+    },
+    {
+      "text": "installed.",
+      "start": 9514,
+      "end": 10410,
+      "confidence": 0.75593,
+      "speaker": "A"
+    },
+    {
+      "text": "Yesterday",
+      "start": 10730,
+      "end": 11698,
+      "confidence": 0.95116,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 11854,
+      "end": 12138,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "was",
+      "start": 12164,
+      "end": 12318,
+      "confidence": 0.99799,
+      "speaker": "A"
+    },
+    {
+      "text": "walking",
+      "start": 12344,
+      "end": 12658,
+      "confidence": 0.9953,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 12694,
+      "end": 12858,
+      "confidence": 0.98764,
+      "speaker": "A"
+    },
+    {
+      "text": "South",
+      "start": 12884,
+      "end": 13174,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "Boston",
+      "start": 13222,
+      "end": 13678,
+      "confidence": 0.99752,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 13714,
+      "end": 13842,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "pick",
+      "start": 13856,
+      "end": 14034,
+      "confidence": 0.50274,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 14072,
+      "end": 14238,
+      "confidence": 0.92,
+      "speaker": "A"
+    },
+    {
+      "text": "car",
+      "start": 14264,
+      "end": 14490,
+      "confidence": 0.99953,
+      "speaker": "A"
+    },
+    {
+      "text": "up",
+      "start": 14540,
+      "end": 15006,
+      "confidence": 0.9875,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 15128,
+      "end": 15414,
+      "confidence": 0.86,
+      "speaker": "A"
+    },
+    {
+      "text": "some",
+      "start": 15452,
+      "end": 15618,
+      "confidence": 0.99757,
+      "speaker": "A"
+    },
+    {
+      "text": "guy",
+      "start": 15644,
+      "end": 15834,
+      "confidence": 0.99425,
+      "speaker": "A"
+    },
+    {
+      "text": "got",
+      "start": 15872,
+      "end": 16110,
+      "confidence": 0.99248,
+      "speaker": "A"
+    },
+    {
+      "text": "thrown",
+      "start": 16160,
+      "end": 16678,
+      "confidence": 0.68209,
+      "speaker": "A"
+    },
+    {
+      "text": "through",
+      "start": 16774,
+      "end": 17034,
+      "confidence": 0.99793,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 17072,
+      "end": 17202,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "window",
+      "start": 17216,
+      "end": 17614,
+      "confidence": 0.62159,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 17662,
+      "end": 17802,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 17816,
+      "end": 17922,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "pub",
+      "start": 17936,
+      "end": 18330,
+      "confidence": 0.81942,
+      "speaker": "A"
+    },
+    {
+      "text": "right",
+      "start": 18440,
+      "end": 18750,
+      "confidence": 0.99943,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 18800,
+      "end": 18978,
+      "confidence": 0.98769,
+      "speaker": "A"
+    },
+    {
+      "text": "front",
+      "start": 19004,
+      "end": 19158,
+      "confidence": 0.99999,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 19184,
+      "end": 19338,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "me.",
+      "start": 19364,
+      "end": 19940,
+      "confidence": 0.99995,
+      "speaker": "A"
+    },
+    {
+      "text": "A",
+      "start": 20510,
+      "end": 20766,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "few",
+      "start": 20768,
+      "end": 20970,
+      "confidence": 0.95882,
+      "speaker": "A"
+    },
+    {
+      "text": "guys",
+      "start": 21020,
+      "end": 21270,
+      "confidence": 0.99975,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 21320,
+      "end": 21498,
+      "confidence": 0.97125,
+      "speaker": "A"
+    },
+    {
+      "text": "been",
+      "start": 21524,
+      "end": 21678,
+      "confidence": 0.99951,
+      "speaker": "A"
+    },
+    {
+      "text": "drinking",
+      "start": 21704,
+      "end": 22162,
+      "confidence": 0.81573,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 22246,
+      "end": 22458,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "they",
+      "start": 22484,
+      "end": 22638,
+      "confidence": 0.99155,
+      "speaker": "A"
+    },
+    {
+      "text": "got",
+      "start": 22664,
+      "end": 22818,
+      "confidence": 0.9996,
+      "speaker": "A"
+    },
+    {
+      "text": "into",
+      "start": 22844,
+      "end": 23034,
+      "confidence": 0.99702,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 23072,
+      "end": 23202,
+      "confidence": 0.9986,
+      "speaker": "A"
+    },
+    {
+      "text": "argument",
+      "start": 23216,
+      "end": 23578,
+      "confidence": 0.99614,
+      "speaker": "A"
+    },
+    {
+      "text": "about",
+      "start": 23614,
+      "end": 23814,
+      "confidence": 0.99976,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 23852,
+      "end": 24018,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "Red",
+      "start": 24044,
+      "end": 24198,
+      "confidence": 0.99957,
+      "speaker": "A"
+    },
+    {
+      "text": "Sox,",
+      "start": 24224,
+      "end": 24718,
+      "confidence": 0.64768,
+      "speaker": "A"
+    },
+    {
+      "text": "which",
+      "start": 24814,
+      "end": 25074,
+      "confidence": 0.99967,
+      "speaker": "A"
+    },
+    {
+      "text": "resulted",
+      "start": 25112,
+      "end": 25558,
+      "confidence": 0.99469,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 25594,
+      "end": 25758,
+      "confidence": 0.59568,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 25784,
+      "end": 25902,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "fight.",
+      "start": 25916,
+      "end": 26480,
+      "confidence": 0.99945,
+      "speaker": "A"
+    },
+    {
+      "text": "When",
+      "start": 27170,
+      "end": 27462,
+      "confidence": 0.99983,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 27476,
+      "end": 27618,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "went",
+      "start": 27644,
+      "end": 27762,
+      "confidence": 0.9991,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 27776,
+      "end": 27918,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "break",
+      "start": 27944,
+      "end": 28134,
+      "confidence": 0.99789,
+      "speaker": "A"
+    },
+    {
+      "text": "up",
+      "start": 28172,
+      "end": 28338,
+      "confidence": 0.95047,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 28364,
+      "end": 28482,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "fight,",
+      "start": 28496,
+      "end": 28998,
+      "confidence": 0.98102,
+      "speaker": "A"
+    },
+    {
+      "text": "one",
+      "start": 29144,
+      "end": 29418,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 29444,
+      "end": 29526,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 29528,
+      "end": 29622,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "guys",
+      "start": 29636,
+      "end": 29958,
+      "confidence": 0.99831,
+      "speaker": "A"
+    },
+    {
+      "text": "accidentally",
+      "start": 30044,
+      "end": 30670,
+      "confidence": 0.83442,
+      "speaker": "A"
+    },
+    {
+      "text": "hit",
+      "start": 30730,
+      "end": 30918,
+      "confidence": 0.99967,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 30944,
+      "end": 31098,
+      "confidence": 0.99892,
+      "speaker": "A"
+    },
+    {
+      "text": "with",
+      "start": 31124,
+      "end": 31242,
+      "confidence": 0.99892,
+      "speaker": "A"
+    },
+    {
+      "text": "his",
+      "start": 31256,
+      "end": 31398,
+      "confidence": 0.99666,
+      "speaker": "A"
+    },
+    {
+      "text": "elbow",
+      "start": 31424,
+      "end": 31762,
+      "confidence": 0.9997,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 31786,
+      "end": 31902,
+      "confidence": 0.98885,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 31916,
+      "end": 32022,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "face,",
+      "start": 32036,
+      "end": 32502,
+      "confidence": 0.99987,
+      "speaker": "A"
+    },
+    {
+      "text": "so",
+      "start": 32636,
+      "end": 32898,
+      "confidence": 0.99184,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 32924,
+      "end": 33078,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "fell",
+      "start": 33104,
+      "end": 33298,
+      "confidence": 0.66459,
+      "speaker": "A"
+    },
+    {
+      "text": "back",
+      "start": 33334,
+      "end": 33534,
+      "confidence": 0.95525,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 33572,
+      "end": 33774,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "#####",
+      "start": 33812,
+      "end": 34078,
+      "confidence": 0.99946,
+      "speaker": "A"
+    },
+    {
+      "text": "##",
+      "start": 34114,
+      "end": 34278,
+      "confidence": 0.99981,
+      "speaker": "A"
+    },
+    {
+      "text": "#####.",
+      "start": 34304,
+      "end": 34950,
+      "confidence": 0.95592,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 35390,
+      "end": 35718,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "went",
+      "start": 35744,
+      "end": 35898,
+      "confidence": 0.9999,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 35924,
+      "end": 36042,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 36056,
+      "end": 36198,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "emergency",
+      "start": 36224,
+      "end": 36670,
+      "confidence": 0.99984,
+      "speaker": "A"
+    },
+    {
+      "text": "room",
+      "start": 36730,
+      "end": 36990,
+      "confidence": 0.80751,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 37040,
+      "end": 37182,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 37196,
+      "end": 37338,
+      "confidence": 0.99139,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 37364,
+      "end": 37518,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 37544,
+      "end": 37698,
+      "confidence": 0.75821,
+      "speaker": "A"
+    },
+    {
+      "text": "surgery,",
+      "start": 37724,
+      "end": 38314,
+      "confidence": 0.99524,
+      "speaker": "A"
+    },
+    {
+      "text": "which",
+      "start": 38422,
+      "end": 38730,
+      "confidence": 0.99898,
+      "speaker": "A"
+    },
+    {
+      "text": "sucks",
+      "start": 38780,
+      "end": 39130,
+      "confidence": 0.99955,
+      "speaker": "A"
+    },
+    {
+      "text": "because",
+      "start": 39190,
+      "end": 39450,
+      "confidence": 0.99968,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 39500,
+      "end": 39642,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 39656,
+      "end": 39762,
+      "confidence": 0.9964,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 39776,
+      "end": 39882,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "wear",
+      "start": 39896,
+      "end": 40042,
+      "confidence": 0.99906,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 40066,
+      "end": 40182,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "cast",
+      "start": 40196,
+      "end": 40414,
+      "confidence": 0.97766,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 40462,
+      "end": 40674,
+      "confidence": 0.99969,
+      "speaker": "A"
+    },
+    {
+      "text": "two",
+      "start": 40712,
+      "end": 40914,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "weeks",
+      "start": 40952,
+      "end": 41334,
+      "confidence": 0.99929,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 41432,
+      "end": 41658,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 41684,
+      "end": 41838,
+      "confidence": 0.9772,
+      "speaker": "A"
+    },
+    {
+      "text": "cost",
+      "start": 41864,
+      "end": 42054,
+      "confidence": 0.99996,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 42092,
+      "end": 42258,
+      "confidence": 0.99818,
+      "speaker": "A"
+    },
+    {
+      "text": "almost",
+      "start": 42284,
+      "end": 42582,
+      "confidence": 0.99895,
+      "speaker": "A"
+    },
+    {
+      "text": "$#,###.",
+      "start": 42656,
+      "end": 44000,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "My",
+      "start": 44510,
+      "end": 44838,
+      "confidence": 0.99981,
+      "speaker": "A"
+    },
+    {
+      "text": "wrist",
+      "start": 44864,
+      "end": 45226,
+      "confidence": 0.90388,
+      "speaker": "A"
+    },
+    {
+      "text": "still",
+      "start": 45298,
+      "end": 45534,
+      "confidence": 0.99744,
+      "speaker": "A"
+    },
+    {
+      "text": "feels",
+      "start": 45572,
+      "end": 45838,
+      "confidence": 0.96569,
+      "speaker": "A"
+    },
+    {
+      "text": "like",
+      "start": 45874,
+      "end": 46074,
+      "confidence": 0.99907,
+      "speaker": "A"
+    },
+    {
+      "text": "s***,",
+      "start": 46112,
+      "end": 46558,
+      "confidence": 0.76048,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 46654,
+      "end": 46878,
+      "confidence": 0.92,
+      "speaker": "A"
+    },
+    {
+      "text": "I've",
+      "start": 46904,
+      "end": 47062,
+      "confidence": 0.8667,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 47086,
+      "end": 47238,
+      "confidence": 0.99941,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 47264,
+      "end": 47382,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "take",
+      "start": 47396,
+      "end": 47610,
+      "confidence": 0.99945,
+      "speaker": "A"
+    },
+    {
+      "text": "#####",
+      "start": 47660,
+      "end": 48154,
+      "confidence": 0.98802,
+      "speaker": "A"
+    },
+    {
+      "text": "all",
+      "start": 48202,
+      "end": 48414,
+      "confidence": 0.99965,
+      "speaker": "A"
+    },
+    {
+      "text": "week.",
+      "start": 48452,
+      "end": 49040,
+      "confidence": 0.99995,
+      "speaker": "A"
+    },
+    {
+      "text": "Besides",
+      "start": 49430,
+      "end": 50038,
+      "confidence": 0.90744,
+      "speaker": "A"
+    },
+    {
+      "text": "that,",
+      "start": 50074,
+      "end": 50454,
+      "confidence": 0.99893,
+      "speaker": "A"
+    },
+    {
+      "text": "things",
+      "start": 50552,
+      "end": 50814,
+      "confidence": 0.9996,
+      "speaker": "A"
+    },
+    {
+      "text": "are",
+      "start": 50852,
+      "end": 51054,
+      "confidence": 0.99958,
+      "speaker": "A"
+    },
+    {
+      "text": "pretty",
+      "start": 51092,
+      "end": 51294,
+      "confidence": 0.99966,
+      "speaker": "A"
+    },
+    {
+      "text": "good.",
+      "start": 51332,
+      "end": 51858,
+      "confidence": 0.99992,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 52004,
+      "end": 52386,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "started",
+      "start": 52448,
+      "end": 52674,
+      "confidence": 0.67858,
+      "speaker": "A"
+    },
+    {
+      "text": "my",
+      "start": 52712,
+      "end": 52878,
+      "confidence": 0.63192,
+      "speaker": "A"
+    },
+    {
+      "text": "master's",
+      "start": 52904,
+      "end": 53302,
+      "confidence": 0.78657,
+      "speaker": "A"
+    },
+    {
+      "text": "degree",
+      "start": 53326,
+      "end": 53482,
+      "confidence": 0.88217,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 53506,
+      "end": 53658,
+      "confidence": 0.72067,
+      "speaker": "A"
+    },
+    {
+      "text": "Political",
+      "start": 53684,
+      "end": 54034,
+      "confidence": 0.99868,
+      "speaker": "A"
+    },
+    {
+      "text": "Science,",
+      "start": 54082,
+      "end": 54394,
+      "confidence": 0.99541,
+      "speaker": "A"
+    },
+    {
+      "text": "which",
+      "start": 54442,
+      "end": 54618,
+      "confidence": 0.99894,
+      "speaker": "A"
+    },
+    {
+      "text": "I'm",
+      "start": 54644,
+      "end": 54802,
+      "confidence": 0.92467,
+      "speaker": "A"
+    },
+    {
+      "text": "excited",
+      "start": 54826,
+      "end": 55210,
+      "confidence": 0.99916,
+      "speaker": "A"
+    },
+    {
+      "text": "about.",
+      "start": 55270,
+      "end": 55818,
+      "confidence": 0.9999,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 55964,
+      "end": 56238,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "school",
+      "start": 56264,
+      "end": 56490,
+      "confidence": 0.99996,
+      "speaker": "A"
+    },
+    {
+      "text": "has",
+      "start": 56540,
+      "end": 56718,
+      "confidence": 0.99958,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 56744,
+      "end": 56862,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "great",
+      "start": 56876,
+      "end": 57090,
+      "confidence": 0.9999,
+      "speaker": "A"
+    },
+    {
+      "text": "program,",
+      "start": 57140,
+      "end": 57570,
+      "confidence": 0.99998,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 57680,
+      "end": 57882,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "I've",
+      "start": 57896,
+      "end": 58078,
+      "confidence": 0.78518,
+      "speaker": "A"
+    },
+    {
+      "text": "already",
+      "start": 58114,
+      "end": 58314,
+      "confidence": 0.99941,
+      "speaker": "A"
+    },
+    {
+      "text": "met",
+      "start": 58352,
+      "end": 58518,
+      "confidence": 0.99979,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 58544,
+      "end": 58662,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "lot",
+      "start": 58676,
+      "end": 58782,
+      "confidence": 0.99998,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 58796,
+      "end": 58938,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "good",
+      "start": 58964,
+      "end": 59154,
+      "confidence": 0.99945,
+      "speaker": "A"
+    },
+    {
+      "text": "professors.",
+      "start": 59192,
+      "end": 60030,
+      "confidence": 0.99871,
+      "speaker": "A"
+    },
+    {
+      "text": "After",
+      "start": 60710,
+      "end": 61074,
+      "confidence": 0.913,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 61112,
+      "end": 61278,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "program,",
+      "start": 61304,
+      "end": 61890,
+      "confidence": 0.9997,
+      "speaker": "A"
+    },
+    {
+      "text": "I'm",
+      "start": 62060,
+      "end": 62422,
+      "confidence": 0.94486,
+      "speaker": "A"
+    },
+    {
+      "text": "going",
+      "start": 62446,
+      "end": 62562,
+      "confidence": 0.99934,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 62576,
+      "end": 62646,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "go",
+      "start": 62648,
+      "end": 62742,
+      "confidence": 0.99505,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 62756,
+      "end": 62898,
+      "confidence": 0.97,
+      "speaker": "A"
+    },
+    {
+      "text": "law",
+      "start": 62924,
+      "end": 63114,
+      "confidence": 0.99985,
+      "speaker": "A"
+    },
+    {
+      "text": "school,",
+      "start": 63152,
+      "end": 63642,
+      "confidence": 0.99978,
+      "speaker": "A"
+    },
+    {
+      "text": "so",
+      "start": 63776,
+      "end": 64074,
+      "confidence": 0.98592,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 64112,
+      "end": 64242,
+      "confidence": 0.99456,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 64256,
+      "end": 64398,
+      "confidence": 0.99121,
+      "speaker": "A"
+    },
+    {
+      "text": "help",
+      "start": 64424,
+      "end": 64578,
+      "confidence": 0.99679,
+      "speaker": "A"
+    },
+    {
+      "text": "prepare",
+      "start": 64604,
+      "end": 64918,
+      "confidence": 0.73415,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 64954,
+      "end": 65082,
+      "confidence": 0.99844,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 65096,
+      "end": 65238,
+      "confidence": 0.99858,
+      "speaker": "A"
+    },
+    {
+      "text": "that.",
+      "start": 65264,
+      "end": 65886,
+      "confidence": 0.99905,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 66068,
+      "end": 66378,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "other",
+      "start": 66404,
+      "end": 66594,
+      "confidence": 0.99876,
+      "speaker": "A"
+    },
+    {
+      "text": "good",
+      "start": 66632,
+      "end": 66834,
+      "confidence": 0.99938,
+      "speaker": "A"
+    },
+    {
+      "text": "news",
+      "start": 66872,
+      "end": 67290,
+      "confidence": 0.99982,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 67400,
+      "end": 67566,
+      "confidence": 0.83563,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 67568,
+      "end": 67662,
+      "confidence": 0.99312,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 67676,
+      "end": 67746,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 67748,
+      "end": 67842,
+      "confidence": 0.99424,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 67856,
+      "end": 67962,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "keep",
+      "start": 67976,
+      "end": 68154,
+      "confidence": 0.99926,
+      "speaker": "A"
+    },
+    {
+      "text": "playing",
+      "start": 68192,
+      "end": 68398,
+      "confidence": 0.73979,
+      "speaker": "A"
+    },
+    {
+      "text": "basketball",
+      "start": 68434,
+      "end": 69082,
+      "confidence": 0.5553,
+      "speaker": "A"
+    },
+    {
+      "text": "while",
+      "start": 69166,
+      "end": 69378,
+      "confidence": 0.99985,
+      "speaker": "A"
+    },
+    {
+      "text": "I'm",
+      "start": 69404,
+      "end": 69658,
+      "confidence": 0.69914,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 69694,
+      "end": 69894,
+      "confidence": 0.99913,
+      "speaker": "A"
+    },
+    {
+      "text": "school.",
+      "start": 69932,
+      "end": 70520,
+      "confidence": 0.99994,
+      "speaker": "A"
+    },
+    {
+      "text": "Usually",
+      "start": 70850,
+      "end": 71646,
+      "confidence": 0.99938,
+      "speaker": "A"
+    },
+    {
+      "text": "people",
+      "start": 71828,
+      "end": 72246,
+      "confidence": 0.99973,
+      "speaker": "A"
+    },
+    {
+      "text": "stop",
+      "start": 72308,
+      "end": 72570,
+      "confidence": 0.99567,
+      "speaker": "A"
+    },
+    {
+      "text": "playing",
+      "start": 72620,
+      "end": 72934,
+      "confidence": 0.99843,
+      "speaker": "A"
+    },
+    {
+      "text": "after",
+      "start": 72982,
+      "end": 73302,
+      "confidence": 0.99953,
+      "speaker": "A"
+    },
+    {
+      "text": "undergrad,",
+      "start": 73376,
+      "end": 74146,
+      "confidence": 0.95381,
+      "speaker": "A"
+    },
+    {
+      "text": "but",
+      "start": 74278,
+      "end": 74538,
+      "confidence": 0.99733,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 74564,
+      "end": 74682,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 74696,
+      "end": 74802,
+      "confidence": 0.99819,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 74816,
+      "end": 74994,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "keep",
+      "start": 75032,
+      "end": 75198,
+      "confidence": 0.98701,
+      "speaker": "A"
+    },
+    {
+      "text": "playing",
+      "start": 75224,
+      "end": 75610,
+      "confidence": 0.99948,
+      "speaker": "A"
+    },
+    {
+      "text": "while",
+      "start": 75670,
+      "end": 75858,
+      "confidence": 0.99949,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 75884,
+      "end": 76038,
+      "confidence": 0.93,
+      "speaker": "A"
+    },
+    {
+      "text": "earn",
+      "start": 76064,
+      "end": 76222,
+      "confidence": 0.93503,
+      "speaker": "A"
+    },
+    {
+      "text": "my",
+      "start": 76246,
+      "end": 76434,
+      "confidence": 0.99139,
+      "speaker": "A"
+    },
+    {
+      "text": "degree,",
+      "start": 76472,
+      "end": 76750,
+      "confidence": 0.89155,
+      "speaker": "A"
+    },
+    {
+      "text": "which",
+      "start": 76810,
+      "end": 76998,
+      "confidence": 0.99937,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 77024,
+      "end": 77214,
+      "confidence": 0.99865,
+      "speaker": "A"
+    },
+    {
+      "text": "great.",
+      "start": 77252,
+      "end": 77840,
+      "confidence": 0.99993,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 78170,
+      "end": 78498,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "program",
+      "start": 78524,
+      "end": 78822,
+      "confidence": 0.99989,
+      "speaker": "A"
+    },
+    {
+      "text": "has",
+      "start": 78896,
+      "end": 79098,
+      "confidence": 0.99974,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 79124,
+      "end": 79206,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "ton",
+      "start": 79208,
+      "end": 79338,
+      "confidence": 0.84049,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 79364,
+      "end": 79482,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "good",
+      "start": 79496,
+      "end": 79710,
+      "confidence": 0.8766,
+      "speaker": "A"
+    },
+    {
+      "text": "nutrition",
+      "start": 79760,
+      "end": 80254,
+      "confidence": 0.99324,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 80302,
+      "end": 80478,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "physical",
+      "start": 80504,
+      "end": 80794,
+      "confidence": 0.99972,
+      "speaker": "A"
+    },
+    {
+      "text": "therapy",
+      "start": 80842,
+      "end": 81274,
+      "confidence": 0.96001,
+      "speaker": "A"
+    },
+    {
+      "text": "resources,",
+      "start": 81322,
+      "end": 81874,
+      "confidence": 0.64492,
+      "speaker": "A"
+    },
+    {
+      "text": "too.",
+      "start": 81922,
+      "end": 82520,
+      "confidence": 0.99504,
+      "speaker": "A"
+    },
+    {
+      "text": "I'm",
+      "start": 82850,
+      "end": 83278,
+      "confidence": 0.62212,
+      "speaker": "A"
+    },
+    {
+      "text": "really",
+      "start": 83314,
+      "end": 83550,
+      "confidence": 0.99836,
+      "speaker": "A"
+    },
+    {
+      "text": "excited",
+      "start": 83600,
+      "end": 83950,
+      "confidence": 0.98727,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 84010,
+      "end": 84198,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "start",
+      "start": 84224,
+      "end": 84414,
+      "confidence": 0.99974,
+      "speaker": "A"
+    },
+    {
+      "text": "playing",
+      "start": 84452,
+      "end": 84718,
+      "confidence": 0.90488,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 84754,
+      "end": 84918,
+      "confidence": 0.99766,
+      "speaker": "A"
+    },
+    {
+      "text": "my",
+      "start": 84944,
+      "end": 85098,
+      "confidence": 0.99967,
+      "speaker": "A"
+    },
+    {
+      "text": "new",
+      "start": 85124,
+      "end": 85314,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "team.",
+      "start": 85352,
+      "end": 85940,
+      "confidence": 0.9998,
+      "speaker": "A"
+    },
+    {
+      "text": "As",
+      "start": 86810,
+      "end": 87174,
+      "confidence": 0.99931,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 87212,
+      "end": 87378,
+      "confidence": 0.99871,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 87404,
+      "end": 87558,
+      "confidence": 0.99835,
+      "speaker": "A"
+    },
+    {
+      "text": "weekend,",
+      "start": 87584,
+      "end": 88186,
+      "confidence": 0.56917,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 88318,
+      "end": 88542,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "don't",
+      "start": 88556,
+      "end": 88702,
+      "confidence": 0.995,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 88726,
+      "end": 88878,
+      "confidence": 0.99959,
+      "speaker": "A"
+    },
+    {
+      "text": "much",
+      "start": 88904,
+      "end": 89130,
+      "confidence": 0.67427,
+      "speaker": "A"
+    },
+    {
+      "text": "going",
+      "start": 89180,
+      "end": 89430,
+      "confidence": 0.99905,
+      "speaker": "A"
+    },
+    {
+      "text": "on.",
+      "start": 89480,
+      "end": 90090,
+      "confidence": 0.99729,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 90260,
+      "end": 90558,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 90584,
+      "end": 90702,
+      "confidence": 0.99847,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 90716,
+      "end": 90858,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "call",
+      "start": 90884,
+      "end": 91038,
+      "confidence": 0.99937,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 91064,
+      "end": 91218,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "phone",
+      "start": 91244,
+      "end": 91434,
+      "confidence": 0.99964,
+      "speaker": "A"
+    },
+    {
+      "text": "company",
+      "start": 91472,
+      "end": 91746,
+      "confidence": 0.99915,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 91808,
+      "end": 91998,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "see",
+      "start": 92024,
+      "end": 92142,
+      "confidence": 0.99965,
+      "speaker": "A"
+    },
+    {
+      "text": "if",
+      "start": 92156,
+      "end": 92262,
+      "confidence": 0.99911,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 92276,
+      "end": 92382,
+      "confidence": 0.76,
+      "speaker": "A"
+    },
+    {
+      "text": "can",
+      "start": 92396,
+      "end": 92538,
+      "confidence": 0.61273,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 92564,
+      "end": 92718,
+      "confidence": 0.9995,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 92744,
+      "end": 92862,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "new",
+      "start": 92876,
+      "end": 93054,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "phone.",
+      "start": 93092,
+      "end": 93762,
+      "confidence": 0.99961,
+      "speaker": "A"
+    },
+    {
+      "text": "The",
+      "start": 93956,
+      "end": 94278,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "battery",
+      "start": 94304,
+      "end": 94618,
+      "confidence": 0.98756,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 94654,
+      "end": 94818,
+      "confidence": 0.99866,
+      "speaker": "A"
+    },
+    {
+      "text": "my",
+      "start": 94844,
+      "end": 94998,
+      "confidence": 0.9995,
+      "speaker": "A"
+    },
+    {
+      "text": "phone",
+      "start": 95024,
+      "end": 95214,
+      "confidence": 0.99982,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 95252,
+      "end": 95418,
+      "confidence": 0.96514,
+      "speaker": "A"
+    },
+    {
+      "text": "broken,",
+      "start": 95444,
+      "end": 95878,
+      "confidence": 0.98826,
+      "speaker": "A"
+    },
+    {
+      "text": "so",
+      "start": 95974,
+      "end": 96198,
+      "confidence": 0.99536,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 96224,
+      "end": 96342,
+      "confidence": 1.0,
+      "speaker": "A"
+    },
+    {
+      "text": "want",
+      "start": 96356,
+      "end": 96498,
+      "confidence": 0.88591,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 96524,
+      "end": 96642,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "get",
+      "start": 96656,
+      "end": 96762,
+      "confidence": 0.99858,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 96776,
+      "end": 96918,
+      "confidence": 0.55731,
+      "speaker": "A"
+    },
+    {
+      "text": "replaced.",
+      "start": 96944,
+      "end": 97870,
+      "confidence": 0.87072,
+      "speaker": "A"
+    },
+    {
+      "text": "What",
+      "start": 98050,
+      "end": 98358,
+      "confidence": 0.99965,
+      "speaker": "A"
+    },
+    {
+      "text": "are",
+      "start": 98384,
+      "end": 98538,
+      "confidence": 0.93156,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 98564,
+      "end": 98754,
+      "confidence": 0.99186,
+      "speaker": "A"
+    },
+    {
+      "text": "doing",
+      "start": 98792,
+      "end": 98994,
+      "confidence": 0.99979,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 99032,
+      "end": 99234,
+      "confidence": 0.99945,
+      "speaker": "A"
+    },
+    {
+      "text": "weekend?",
+      "start": 99272,
+      "end": 99430,
+      "confidence": 0.61645,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "confidence": 0.9550143322475569,
+      "end": 99430,
+      "speaker": "A",
+      "start": 1150,
+      "text": "You will never believe what happened to me last week. My SUV broke down, so I had to send it to an auto shop to get a new gasket installed. Yesterday I was walking in South Boston to pick the car up and some guy got thrown through the window of a pub right in front of me. A few guys had been drinking and they got into an argument about the Red Sox, which resulted in a fight. When I went to break up the fight, one of the guys accidentally hit me with his elbow in the face, so I fell back and ##### ## #####. I went to the emergency room and had to get surgery, which sucks because I have to wear a cast for two weeks and it cost me almost $#,###. My wrist still feels like s***, and I've had to take ##### all week. Besides that, things are pretty good. I started my master's degree in Political Science, which I'm excited about. The school has a great program, and I've already met a lot of good professors. After the program, I'm going to go to law school, so it will help prepare me for that. The other good news is that I get to keep playing basketball while I'm in school. Usually people stop playing after undergrad, but I get to keep playing while I earn my degree, which is great. The program has a ton of good nutrition and physical therapy resources, too. I'm really excited to start playing on my new team. As for this weekend, I don't have much going on. I have to call the phone company to see if I can get a new phone. The battery on my phone is broken, so I want to get it replaced. What are you doing this weekend?",
+      "words": [
+        {
+          "text": "You",
+          "start": 1150,
+          "end": 1278,
+          "confidence": 0.57747,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 1304,
+          "end": 1458,
+          "confidence": 0.96249,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 1484,
+          "end": 1710,
+          "confidence": 0.9987,
+          "speaker": "A"
+        },
+        {
+          "text": "believe",
+          "start": 1760,
+          "end": 2046,
+          "confidence": 0.99859,
+          "speaker": "A"
+        },
+        {
+          "text": "what",
+          "start": 2108,
+          "end": 2334,
+          "confidence": 0.99941,
+          "speaker": "A"
+        },
+        {
+          "text": "happened",
+          "start": 2372,
+          "end": 2610,
+          "confidence": 0.99077,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 2660,
+          "end": 2838,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 2864,
+          "end": 3440,
+          "confidence": 0.99974,
+          "speaker": "A"
+        },
+        {
+          "text": "last",
+          "start": 3770,
+          "end": 4206,
+          "confidence": 0.99996,
+          "speaker": "A"
+        },
+        {
+          "text": "week.",
+          "start": 4268,
+          "end": 4674,
+          "confidence": 0.99996,
+          "speaker": "A"
+        },
+        {
+          "text": "My",
+          "start": 4772,
+          "end": 5034,
+          "confidence": 0.99918,
+          "speaker": "A"
+        },
+        {
+          "text": "SUV",
+          "start": 5072,
+          "end": 5590,
+          "confidence": 0.83872,
+          "speaker": "A"
+        },
+        {
+          "text": "broke",
+          "start": 5650,
+          "end": 5938,
+          "confidence": 0.9978,
+          "speaker": "A"
+        },
+        {
+          "text": "down,",
+          "start": 5974,
+          "end": 6390,
+          "confidence": 0.99924,
+          "speaker": "A"
+        },
+        {
+          "text": "so",
+          "start": 6500,
+          "end": 6738,
+          "confidence": 0.99848,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 6764,
+          "end": 6882,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 6896,
+          "end": 7002,
+          "confidence": 0.99241,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 7016,
+          "end": 7158,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "send",
+          "start": 7184,
+          "end": 7338,
+          "confidence": 0.9943,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 7364,
+          "end": 7482,
+          "confidence": 0.98874,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 7496,
+          "end": 7602,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 7616,
+          "end": 7758,
+          "confidence": 0.97854,
+          "speaker": "A"
+        },
+        {
+          "text": "auto",
+          "start": 7784,
+          "end": 8062,
+          "confidence": 0.93428,
+          "speaker": "A"
+        },
+        {
+          "text": "shop",
+          "start": 8086,
+          "end": 8310,
+          "confidence": 0.99507,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 8360,
+          "end": 8538,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 8564,
+          "end": 8682,
+          "confidence": 0.99956,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 8696,
+          "end": 8802,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "new",
+          "start": 8816,
+          "end": 8958,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "gasket",
+          "start": 8984,
+          "end": 9478,
+          "confidence": 0.49303,
+          "speaker": "A"
+        },
+        {
+          "text": "installed.",
+          "start": 9514,
+          "end": 10410,
+          "confidence": 0.75593,
+          "speaker": "A"
+        },
+        {
+          "text": "Yesterday",
+          "start": 10730,
+          "end": 11698,
+          "confidence": 0.95116,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 11854,
+          "end": 12138,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "was",
+          "start": 12164,
+          "end": 12318,
+          "confidence": 0.99799,
+          "speaker": "A"
+        },
+        {
+          "text": "walking",
+          "start": 12344,
+          "end": 12658,
+          "confidence": 0.9953,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 12694,
+          "end": 12858,
+          "confidence": 0.98764,
+          "speaker": "A"
+        },
+        {
+          "text": "South",
+          "start": 12884,
+          "end": 13174,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "Boston",
+          "start": 13222,
+          "end": 13678,
+          "confidence": 0.99752,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 13714,
+          "end": 13842,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "pick",
+          "start": 13856,
+          "end": 14034,
+          "confidence": 0.50274,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 14072,
+          "end": 14238,
+          "confidence": 0.92,
+          "speaker": "A"
+        },
+        {
+          "text": "car",
+          "start": 14264,
+          "end": 14490,
+          "confidence": 0.99953,
+          "speaker": "A"
+        },
+        {
+          "text": "up",
+          "start": 14540,
+          "end": 15006,
+          "confidence": 0.9875,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 15128,
+          "end": 15414,
+          "confidence": 0.86,
+          "speaker": "A"
+        },
+        {
+          "text": "some",
+          "start": 15452,
+          "end": 15618,
+          "confidence": 0.99757,
+          "speaker": "A"
+        },
+        {
+          "text": "guy",
+          "start": 15644,
+          "end": 15834,
+          "confidence": 0.99425,
+          "speaker": "A"
+        },
+        {
+          "text": "got",
+          "start": 15872,
+          "end": 16110,
+          "confidence": 0.99248,
+          "speaker": "A"
+        },
+        {
+          "text": "thrown",
+          "start": 16160,
+          "end": 16678,
+          "confidence": 0.68209,
+          "speaker": "A"
+        },
+        {
+          "text": "through",
+          "start": 16774,
+          "end": 17034,
+          "confidence": 0.99793,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 17072,
+          "end": 17202,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "window",
+          "start": 17216,
+          "end": 17614,
+          "confidence": 0.62159,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 17662,
+          "end": 17802,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 17816,
+          "end": 17922,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "pub",
+          "start": 17936,
+          "end": 18330,
+          "confidence": 0.81942,
+          "speaker": "A"
+        },
+        {
+          "text": "right",
+          "start": 18440,
+          "end": 18750,
+          "confidence": 0.99943,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 18800,
+          "end": 18978,
+          "confidence": 0.98769,
+          "speaker": "A"
+        },
+        {
+          "text": "front",
+          "start": 19004,
+          "end": 19158,
+          "confidence": 0.99999,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 19184,
+          "end": 19338,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "me.",
+          "start": 19364,
+          "end": 19940,
+          "confidence": 0.99995,
+          "speaker": "A"
+        },
+        {
+          "text": "A",
+          "start": 20510,
+          "end": 20766,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "few",
+          "start": 20768,
+          "end": 20970,
+          "confidence": 0.95882,
+          "speaker": "A"
+        },
+        {
+          "text": "guys",
+          "start": 21020,
+          "end": 21270,
+          "confidence": 0.99975,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 21320,
+          "end": 21498,
+          "confidence": 0.97125,
+          "speaker": "A"
+        },
+        {
+          "text": "been",
+          "start": 21524,
+          "end": 21678,
+          "confidence": 0.99951,
+          "speaker": "A"
+        },
+        {
+          "text": "drinking",
+          "start": 21704,
+          "end": 22162,
+          "confidence": 0.81573,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 22246,
+          "end": 22458,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "they",
+          "start": 22484,
+          "end": 22638,
+          "confidence": 0.99155,
+          "speaker": "A"
+        },
+        {
+          "text": "got",
+          "start": 22664,
+          "end": 22818,
+          "confidence": 0.9996,
+          "speaker": "A"
+        },
+        {
+          "text": "into",
+          "start": 22844,
+          "end": 23034,
+          "confidence": 0.99702,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 23072,
+          "end": 23202,
+          "confidence": 0.9986,
+          "speaker": "A"
+        },
+        {
+          "text": "argument",
+          "start": 23216,
+          "end": 23578,
+          "confidence": 0.99614,
+          "speaker": "A"
+        },
+        {
+          "text": "about",
+          "start": 23614,
+          "end": 23814,
+          "confidence": 0.99976,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 23852,
+          "end": 24018,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "Red",
+          "start": 24044,
+          "end": 24198,
+          "confidence": 0.99957,
+          "speaker": "A"
+        },
+        {
+          "text": "Sox,",
+          "start": 24224,
+          "end": 24718,
+          "confidence": 0.64768,
+          "speaker": "A"
+        },
+        {
+          "text": "which",
+          "start": 24814,
+          "end": 25074,
+          "confidence": 0.99967,
+          "speaker": "A"
+        },
+        {
+          "text": "resulted",
+          "start": 25112,
+          "end": 25558,
+          "confidence": 0.99469,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 25594,
+          "end": 25758,
+          "confidence": 0.59568,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 25784,
+          "end": 25902,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "fight.",
+          "start": 25916,
+          "end": 26480,
+          "confidence": 0.99945,
+          "speaker": "A"
+        },
+        {
+          "text": "When",
+          "start": 27170,
+          "end": 27462,
+          "confidence": 0.99983,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 27476,
+          "end": 27618,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "went",
+          "start": 27644,
+          "end": 27762,
+          "confidence": 0.9991,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 27776,
+          "end": 27918,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "break",
+          "start": 27944,
+          "end": 28134,
+          "confidence": 0.99789,
+          "speaker": "A"
+        },
+        {
+          "text": "up",
+          "start": 28172,
+          "end": 28338,
+          "confidence": 0.95047,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 28364,
+          "end": 28482,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "fight,",
+          "start": 28496,
+          "end": 28998,
+          "confidence": 0.98102,
+          "speaker": "A"
+        },
+        {
+          "text": "one",
+          "start": 29144,
+          "end": 29418,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 29444,
+          "end": 29526,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 29528,
+          "end": 29622,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "guys",
+          "start": 29636,
+          "end": 29958,
+          "confidence": 0.99831,
+          "speaker": "A"
+        },
+        {
+          "text": "accidentally",
+          "start": 30044,
+          "end": 30670,
+          "confidence": 0.83442,
+          "speaker": "A"
+        },
+        {
+          "text": "hit",
+          "start": 30730,
+          "end": 30918,
+          "confidence": 0.99967,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 30944,
+          "end": 31098,
+          "confidence": 0.99892,
+          "speaker": "A"
+        },
+        {
+          "text": "with",
+          "start": 31124,
+          "end": 31242,
+          "confidence": 0.99892,
+          "speaker": "A"
+        },
+        {
+          "text": "his",
+          "start": 31256,
+          "end": 31398,
+          "confidence": 0.99666,
+          "speaker": "A"
+        },
+        {
+          "text": "elbow",
+          "start": 31424,
+          "end": 31762,
+          "confidence": 0.9997,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 31786,
+          "end": 31902,
+          "confidence": 0.98885,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 31916,
+          "end": 32022,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "face,",
+          "start": 32036,
+          "end": 32502,
+          "confidence": 0.99987,
+          "speaker": "A"
+        },
+        {
+          "text": "so",
+          "start": 32636,
+          "end": 32898,
+          "confidence": 0.99184,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 32924,
+          "end": 33078,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "fell",
+          "start": 33104,
+          "end": 33298,
+          "confidence": 0.66459,
+          "speaker": "A"
+        },
+        {
+          "text": "back",
+          "start": 33334,
+          "end": 33534,
+          "confidence": 0.95525,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 33572,
+          "end": 33774,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "#####",
+          "start": 33812,
+          "end": 34078,
+          "confidence": 0.99946,
+          "speaker": "A"
+        },
+        {
+          "text": "##",
+          "start": 34114,
+          "end": 34278,
+          "confidence": 0.99981,
+          "speaker": "A"
+        },
+        {
+          "text": "#####.",
+          "start": 34304,
+          "end": 34950,
+          "confidence": 0.95592,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 35390,
+          "end": 35718,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "went",
+          "start": 35744,
+          "end": 35898,
+          "confidence": 0.9999,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 35924,
+          "end": 36042,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 36056,
+          "end": 36198,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "emergency",
+          "start": 36224,
+          "end": 36670,
+          "confidence": 0.99984,
+          "speaker": "A"
+        },
+        {
+          "text": "room",
+          "start": 36730,
+          "end": 36990,
+          "confidence": 0.80751,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 37040,
+          "end": 37182,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 37196,
+          "end": 37338,
+          "confidence": 0.99139,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 37364,
+          "end": 37518,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 37544,
+          "end": 37698,
+          "confidence": 0.75821,
+          "speaker": "A"
+        },
+        {
+          "text": "surgery,",
+          "start": 37724,
+          "end": 38314,
+          "confidence": 0.99524,
+          "speaker": "A"
+        },
+        {
+          "text": "which",
+          "start": 38422,
+          "end": 38730,
+          "confidence": 0.99898,
+          "speaker": "A"
+        },
+        {
+          "text": "sucks",
+          "start": 38780,
+          "end": 39130,
+          "confidence": 0.99955,
+          "speaker": "A"
+        },
+        {
+          "text": "because",
+          "start": 39190,
+          "end": 39450,
+          "confidence": 0.99968,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 39500,
+          "end": 39642,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 39656,
+          "end": 39762,
+          "confidence": 0.9964,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 39776,
+          "end": 39882,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "wear",
+          "start": 39896,
+          "end": 40042,
+          "confidence": 0.99906,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 40066,
+          "end": 40182,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "cast",
+          "start": 40196,
+          "end": 40414,
+          "confidence": 0.97766,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 40462,
+          "end": 40674,
+          "confidence": 0.99969,
+          "speaker": "A"
+        },
+        {
+          "text": "two",
+          "start": 40712,
+          "end": 40914,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "weeks",
+          "start": 40952,
+          "end": 41334,
+          "confidence": 0.99929,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 41432,
+          "end": 41658,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 41684,
+          "end": 41838,
+          "confidence": 0.9772,
+          "speaker": "A"
+        },
+        {
+          "text": "cost",
+          "start": 41864,
+          "end": 42054,
+          "confidence": 0.99996,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 42092,
+          "end": 42258,
+          "confidence": 0.99818,
+          "speaker": "A"
+        },
+        {
+          "text": "almost",
+          "start": 42284,
+          "end": 42582,
+          "confidence": 0.99895,
+          "speaker": "A"
+        },
+        {
+          "text": "$#,###.",
+          "start": 42656,
+          "end": 44000,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "My",
+          "start": 44510,
+          "end": 44838,
+          "confidence": 0.99981,
+          "speaker": "A"
+        },
+        {
+          "text": "wrist",
+          "start": 44864,
+          "end": 45226,
+          "confidence": 0.90388,
+          "speaker": "A"
+        },
+        {
+          "text": "still",
+          "start": 45298,
+          "end": 45534,
+          "confidence": 0.99744,
+          "speaker": "A"
+        },
+        {
+          "text": "feels",
+          "start": 45572,
+          "end": 45838,
+          "confidence": 0.96569,
+          "speaker": "A"
+        },
+        {
+          "text": "like",
+          "start": 45874,
+          "end": 46074,
+          "confidence": 0.99907,
+          "speaker": "A"
+        },
+        {
+          "text": "s***,",
+          "start": 46112,
+          "end": 46558,
+          "confidence": 0.76048,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 46654,
+          "end": 46878,
+          "confidence": 0.92,
+          "speaker": "A"
+        },
+        {
+          "text": "I've",
+          "start": 46904,
+          "end": 47062,
+          "confidence": 0.8667,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 47086,
+          "end": 47238,
+          "confidence": 0.99941,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 47264,
+          "end": 47382,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "take",
+          "start": 47396,
+          "end": 47610,
+          "confidence": 0.99945,
+          "speaker": "A"
+        },
+        {
+          "text": "#####",
+          "start": 47660,
+          "end": 48154,
+          "confidence": 0.98802,
+          "speaker": "A"
+        },
+        {
+          "text": "all",
+          "start": 48202,
+          "end": 48414,
+          "confidence": 0.99965,
+          "speaker": "A"
+        },
+        {
+          "text": "week.",
+          "start": 48452,
+          "end": 49040,
+          "confidence": 0.99995,
+          "speaker": "A"
+        },
+        {
+          "text": "Besides",
+          "start": 49430,
+          "end": 50038,
+          "confidence": 0.90744,
+          "speaker": "A"
+        },
+        {
+          "text": "that,",
+          "start": 50074,
+          "end": 50454,
+          "confidence": 0.99893,
+          "speaker": "A"
+        },
+        {
+          "text": "things",
+          "start": 50552,
+          "end": 50814,
+          "confidence": 0.9996,
+          "speaker": "A"
+        },
+        {
+          "text": "are",
+          "start": 50852,
+          "end": 51054,
+          "confidence": 0.99958,
+          "speaker": "A"
+        },
+        {
+          "text": "pretty",
+          "start": 51092,
+          "end": 51294,
+          "confidence": 0.99966,
+          "speaker": "A"
+        },
+        {
+          "text": "good.",
+          "start": 51332,
+          "end": 51858,
+          "confidence": 0.99992,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 52004,
+          "end": 52386,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "started",
+          "start": 52448,
+          "end": 52674,
+          "confidence": 0.67858,
+          "speaker": "A"
+        },
+        {
+          "text": "my",
+          "start": 52712,
+          "end": 52878,
+          "confidence": 0.63192,
+          "speaker": "A"
+        },
+        {
+          "text": "master's",
+          "start": 52904,
+          "end": 53302,
+          "confidence": 0.78657,
+          "speaker": "A"
+        },
+        {
+          "text": "degree",
+          "start": 53326,
+          "end": 53482,
+          "confidence": 0.88217,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 53506,
+          "end": 53658,
+          "confidence": 0.72067,
+          "speaker": "A"
+        },
+        {
+          "text": "Political",
+          "start": 53684,
+          "end": 54034,
+          "confidence": 0.99868,
+          "speaker": "A"
+        },
+        {
+          "text": "Science,",
+          "start": 54082,
+          "end": 54394,
+          "confidence": 0.99541,
+          "speaker": "A"
+        },
+        {
+          "text": "which",
+          "start": 54442,
+          "end": 54618,
+          "confidence": 0.99894,
+          "speaker": "A"
+        },
+        {
+          "text": "I'm",
+          "start": 54644,
+          "end": 54802,
+          "confidence": 0.92467,
+          "speaker": "A"
+        },
+        {
+          "text": "excited",
+          "start": 54826,
+          "end": 55210,
+          "confidence": 0.99916,
+          "speaker": "A"
+        },
+        {
+          "text": "about.",
+          "start": 55270,
+          "end": 55818,
+          "confidence": 0.9999,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 55964,
+          "end": 56238,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "school",
+          "start": 56264,
+          "end": 56490,
+          "confidence": 0.99996,
+          "speaker": "A"
+        },
+        {
+          "text": "has",
+          "start": 56540,
+          "end": 56718,
+          "confidence": 0.99958,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 56744,
+          "end": 56862,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "great",
+          "start": 56876,
+          "end": 57090,
+          "confidence": 0.9999,
+          "speaker": "A"
+        },
+        {
+          "text": "program,",
+          "start": 57140,
+          "end": 57570,
+          "confidence": 0.99998,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 57680,
+          "end": 57882,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "I've",
+          "start": 57896,
+          "end": 58078,
+          "confidence": 0.78518,
+          "speaker": "A"
+        },
+        {
+          "text": "already",
+          "start": 58114,
+          "end": 58314,
+          "confidence": 0.99941,
+          "speaker": "A"
+        },
+        {
+          "text": "met",
+          "start": 58352,
+          "end": 58518,
+          "confidence": 0.99979,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 58544,
+          "end": 58662,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "lot",
+          "start": 58676,
+          "end": 58782,
+          "confidence": 0.99998,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 58796,
+          "end": 58938,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "good",
+          "start": 58964,
+          "end": 59154,
+          "confidence": 0.99945,
+          "speaker": "A"
+        },
+        {
+          "text": "professors.",
+          "start": 59192,
+          "end": 60030,
+          "confidence": 0.99871,
+          "speaker": "A"
+        },
+        {
+          "text": "After",
+          "start": 60710,
+          "end": 61074,
+          "confidence": 0.913,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 61112,
+          "end": 61278,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "program,",
+          "start": 61304,
+          "end": 61890,
+          "confidence": 0.9997,
+          "speaker": "A"
+        },
+        {
+          "text": "I'm",
+          "start": 62060,
+          "end": 62422,
+          "confidence": 0.94486,
+          "speaker": "A"
+        },
+        {
+          "text": "going",
+          "start": 62446,
+          "end": 62562,
+          "confidence": 0.99934,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 62576,
+          "end": 62646,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "go",
+          "start": 62648,
+          "end": 62742,
+          "confidence": 0.99505,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 62756,
+          "end": 62898,
+          "confidence": 0.97,
+          "speaker": "A"
+        },
+        {
+          "text": "law",
+          "start": 62924,
+          "end": 63114,
+          "confidence": 0.99985,
+          "speaker": "A"
+        },
+        {
+          "text": "school,",
+          "start": 63152,
+          "end": 63642,
+          "confidence": 0.99978,
+          "speaker": "A"
+        },
+        {
+          "text": "so",
+          "start": 63776,
+          "end": 64074,
+          "confidence": 0.98592,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 64112,
+          "end": 64242,
+          "confidence": 0.99456,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 64256,
+          "end": 64398,
+          "confidence": 0.99121,
+          "speaker": "A"
+        },
+        {
+          "text": "help",
+          "start": 64424,
+          "end": 64578,
+          "confidence": 0.99679,
+          "speaker": "A"
+        },
+        {
+          "text": "prepare",
+          "start": 64604,
+          "end": 64918,
+          "confidence": 0.73415,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 64954,
+          "end": 65082,
+          "confidence": 0.99844,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 65096,
+          "end": 65238,
+          "confidence": 0.99858,
+          "speaker": "A"
+        },
+        {
+          "text": "that.",
+          "start": 65264,
+          "end": 65886,
+          "confidence": 0.99905,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 66068,
+          "end": 66378,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "other",
+          "start": 66404,
+          "end": 66594,
+          "confidence": 0.99876,
+          "speaker": "A"
+        },
+        {
+          "text": "good",
+          "start": 66632,
+          "end": 66834,
+          "confidence": 0.99938,
+          "speaker": "A"
+        },
+        {
+          "text": "news",
+          "start": 66872,
+          "end": 67290,
+          "confidence": 0.99982,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 67400,
+          "end": 67566,
+          "confidence": 0.83563,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 67568,
+          "end": 67662,
+          "confidence": 0.99312,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 67676,
+          "end": 67746,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 67748,
+          "end": 67842,
+          "confidence": 0.99424,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 67856,
+          "end": 67962,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "keep",
+          "start": 67976,
+          "end": 68154,
+          "confidence": 0.99926,
+          "speaker": "A"
+        },
+        {
+          "text": "playing",
+          "start": 68192,
+          "end": 68398,
+          "confidence": 0.73979,
+          "speaker": "A"
+        },
+        {
+          "text": "basketball",
+          "start": 68434,
+          "end": 69082,
+          "confidence": 0.5553,
+          "speaker": "A"
+        },
+        {
+          "text": "while",
+          "start": 69166,
+          "end": 69378,
+          "confidence": 0.99985,
+          "speaker": "A"
+        },
+        {
+          "text": "I'm",
+          "start": 69404,
+          "end": 69658,
+          "confidence": 0.69914,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 69694,
+          "end": 69894,
+          "confidence": 0.99913,
+          "speaker": "A"
+        },
+        {
+          "text": "school.",
+          "start": 69932,
+          "end": 70520,
+          "confidence": 0.99994,
+          "speaker": "A"
+        },
+        {
+          "text": "Usually",
+          "start": 70850,
+          "end": 71646,
+          "confidence": 0.99938,
+          "speaker": "A"
+        },
+        {
+          "text": "people",
+          "start": 71828,
+          "end": 72246,
+          "confidence": 0.99973,
+          "speaker": "A"
+        },
+        {
+          "text": "stop",
+          "start": 72308,
+          "end": 72570,
+          "confidence": 0.99567,
+          "speaker": "A"
+        },
+        {
+          "text": "playing",
+          "start": 72620,
+          "end": 72934,
+          "confidence": 0.99843,
+          "speaker": "A"
+        },
+        {
+          "text": "after",
+          "start": 72982,
+          "end": 73302,
+          "confidence": 0.99953,
+          "speaker": "A"
+        },
+        {
+          "text": "undergrad,",
+          "start": 73376,
+          "end": 74146,
+          "confidence": 0.95381,
+          "speaker": "A"
+        },
+        {
+          "text": "but",
+          "start": 74278,
+          "end": 74538,
+          "confidence": 0.99733,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 74564,
+          "end": 74682,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 74696,
+          "end": 74802,
+          "confidence": 0.99819,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 74816,
+          "end": 74994,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "keep",
+          "start": 75032,
+          "end": 75198,
+          "confidence": 0.98701,
+          "speaker": "A"
+        },
+        {
+          "text": "playing",
+          "start": 75224,
+          "end": 75610,
+          "confidence": 0.99948,
+          "speaker": "A"
+        },
+        {
+          "text": "while",
+          "start": 75670,
+          "end": 75858,
+          "confidence": 0.99949,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 75884,
+          "end": 76038,
+          "confidence": 0.93,
+          "speaker": "A"
+        },
+        {
+          "text": "earn",
+          "start": 76064,
+          "end": 76222,
+          "confidence": 0.93503,
+          "speaker": "A"
+        },
+        {
+          "text": "my",
+          "start": 76246,
+          "end": 76434,
+          "confidence": 0.99139,
+          "speaker": "A"
+        },
+        {
+          "text": "degree,",
+          "start": 76472,
+          "end": 76750,
+          "confidence": 0.89155,
+          "speaker": "A"
+        },
+        {
+          "text": "which",
+          "start": 76810,
+          "end": 76998,
+          "confidence": 0.99937,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 77024,
+          "end": 77214,
+          "confidence": 0.99865,
+          "speaker": "A"
+        },
+        {
+          "text": "great.",
+          "start": 77252,
+          "end": 77840,
+          "confidence": 0.99993,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 78170,
+          "end": 78498,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "program",
+          "start": 78524,
+          "end": 78822,
+          "confidence": 0.99989,
+          "speaker": "A"
+        },
+        {
+          "text": "has",
+          "start": 78896,
+          "end": 79098,
+          "confidence": 0.99974,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 79124,
+          "end": 79206,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "ton",
+          "start": 79208,
+          "end": 79338,
+          "confidence": 0.84049,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 79364,
+          "end": 79482,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "good",
+          "start": 79496,
+          "end": 79710,
+          "confidence": 0.8766,
+          "speaker": "A"
+        },
+        {
+          "text": "nutrition",
+          "start": 79760,
+          "end": 80254,
+          "confidence": 0.99324,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 80302,
+          "end": 80478,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "physical",
+          "start": 80504,
+          "end": 80794,
+          "confidence": 0.99972,
+          "speaker": "A"
+        },
+        {
+          "text": "therapy",
+          "start": 80842,
+          "end": 81274,
+          "confidence": 0.96001,
+          "speaker": "A"
+        },
+        {
+          "text": "resources,",
+          "start": 81322,
+          "end": 81874,
+          "confidence": 0.64492,
+          "speaker": "A"
+        },
+        {
+          "text": "too.",
+          "start": 81922,
+          "end": 82520,
+          "confidence": 0.99504,
+          "speaker": "A"
+        },
+        {
+          "text": "I'm",
+          "start": 82850,
+          "end": 83278,
+          "confidence": 0.62212,
+          "speaker": "A"
+        },
+        {
+          "text": "really",
+          "start": 83314,
+          "end": 83550,
+          "confidence": 0.99836,
+          "speaker": "A"
+        },
+        {
+          "text": "excited",
+          "start": 83600,
+          "end": 83950,
+          "confidence": 0.98727,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 84010,
+          "end": 84198,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "start",
+          "start": 84224,
+          "end": 84414,
+          "confidence": 0.99974,
+          "speaker": "A"
+        },
+        {
+          "text": "playing",
+          "start": 84452,
+          "end": 84718,
+          "confidence": 0.90488,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 84754,
+          "end": 84918,
+          "confidence": 0.99766,
+          "speaker": "A"
+        },
+        {
+          "text": "my",
+          "start": 84944,
+          "end": 85098,
+          "confidence": 0.99967,
+          "speaker": "A"
+        },
+        {
+          "text": "new",
+          "start": 85124,
+          "end": 85314,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "team.",
+          "start": 85352,
+          "end": 85940,
+          "confidence": 0.9998,
+          "speaker": "A"
+        },
+        {
+          "text": "As",
+          "start": 86810,
+          "end": 87174,
+          "confidence": 0.99931,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 87212,
+          "end": 87378,
+          "confidence": 0.99871,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 87404,
+          "end": 87558,
+          "confidence": 0.99835,
+          "speaker": "A"
+        },
+        {
+          "text": "weekend,",
+          "start": 87584,
+          "end": 88186,
+          "confidence": 0.56917,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 88318,
+          "end": 88542,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "don't",
+          "start": 88556,
+          "end": 88702,
+          "confidence": 0.995,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 88726,
+          "end": 88878,
+          "confidence": 0.99959,
+          "speaker": "A"
+        },
+        {
+          "text": "much",
+          "start": 88904,
+          "end": 89130,
+          "confidence": 0.67427,
+          "speaker": "A"
+        },
+        {
+          "text": "going",
+          "start": 89180,
+          "end": 89430,
+          "confidence": 0.99905,
+          "speaker": "A"
+        },
+        {
+          "text": "on.",
+          "start": 89480,
+          "end": 90090,
+          "confidence": 0.99729,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 90260,
+          "end": 90558,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 90584,
+          "end": 90702,
+          "confidence": 0.99847,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 90716,
+          "end": 90858,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "call",
+          "start": 90884,
+          "end": 91038,
+          "confidence": 0.99937,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 91064,
+          "end": 91218,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "phone",
+          "start": 91244,
+          "end": 91434,
+          "confidence": 0.99964,
+          "speaker": "A"
+        },
+        {
+          "text": "company",
+          "start": 91472,
+          "end": 91746,
+          "confidence": 0.99915,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 91808,
+          "end": 91998,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "see",
+          "start": 92024,
+          "end": 92142,
+          "confidence": 0.99965,
+          "speaker": "A"
+        },
+        {
+          "text": "if",
+          "start": 92156,
+          "end": 92262,
+          "confidence": 0.99911,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 92276,
+          "end": 92382,
+          "confidence": 0.76,
+          "speaker": "A"
+        },
+        {
+          "text": "can",
+          "start": 92396,
+          "end": 92538,
+          "confidence": 0.61273,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 92564,
+          "end": 92718,
+          "confidence": 0.9995,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 92744,
+          "end": 92862,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "new",
+          "start": 92876,
+          "end": 93054,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "phone.",
+          "start": 93092,
+          "end": 93762,
+          "confidence": 0.99961,
+          "speaker": "A"
+        },
+        {
+          "text": "The",
+          "start": 93956,
+          "end": 94278,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "battery",
+          "start": 94304,
+          "end": 94618,
+          "confidence": 0.98756,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 94654,
+          "end": 94818,
+          "confidence": 0.99866,
+          "speaker": "A"
+        },
+        {
+          "text": "my",
+          "start": 94844,
+          "end": 94998,
+          "confidence": 0.9995,
+          "speaker": "A"
+        },
+        {
+          "text": "phone",
+          "start": 95024,
+          "end": 95214,
+          "confidence": 0.99982,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 95252,
+          "end": 95418,
+          "confidence": 0.96514,
+          "speaker": "A"
+        },
+        {
+          "text": "broken,",
+          "start": 95444,
+          "end": 95878,
+          "confidence": 0.98826,
+          "speaker": "A"
+        },
+        {
+          "text": "so",
+          "start": 95974,
+          "end": 96198,
+          "confidence": 0.99536,
+          "speaker": "A"
+        },
+        {
+          "text": "I",
+          "start": 96224,
+          "end": 96342,
+          "confidence": 1.0,
+          "speaker": "A"
+        },
+        {
+          "text": "want",
+          "start": 96356,
+          "end": 96498,
+          "confidence": 0.88591,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 96524,
+          "end": 96642,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "get",
+          "start": 96656,
+          "end": 96762,
+          "confidence": 0.99858,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 96776,
+          "end": 96918,
+          "confidence": 0.55731,
+          "speaker": "A"
+        },
+        {
+          "text": "replaced.",
+          "start": 96944,
+          "end": 97870,
+          "confidence": 0.87072,
+          "speaker": "A"
+        },
+        {
+          "text": "What",
+          "start": 98050,
+          "end": 98358,
+          "confidence": 0.99965,
+          "speaker": "A"
+        },
+        {
+          "text": "are",
+          "start": 98384,
+          "end": 98538,
+          "confidence": 0.93156,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 98564,
+          "end": 98754,
+          "confidence": 0.99186,
+          "speaker": "A"
+        },
+        {
+          "text": "doing",
+          "start": 98792,
+          "end": 98994,
+          "confidence": 0.99979,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 99032,
+          "end": 99234,
+          "confidence": 0.99945,
+          "speaker": "A"
+        },
+        {
+          "text": "weekend?",
+          "start": 99272,
+          "end": 99430,
+          "confidence": 0.61645,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.955014332247557,
+  "audio_duration": 101,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": {
+    "status": "success",
+    "results": [
+      {
+        "count": 1,
+        "rank": 0.09,
+        "text": "good professors",
+        "timestamps": [
+          {
+            "start": 58964,
+            "end": 60030
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.07,
+        "text": "last week",
+        "timestamps": [
+          {
+            "start": 3770,
+            "end": 4674
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.07,
+        "text": "South Boston",
+        "timestamps": [
+          {
+            "start": 12884,
+            "end": 13678
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.07,
+        "text": "good nutrition and physical therapy resources",
+        "timestamps": [
+          {
+            "start": 79496,
+            "end": 81874
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.06,
+        "text": "law school",
+        "timestamps": [
+          {
+            "start": 62924,
+            "end": 63642
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.06,
+        "text": "Political Science",
+        "timestamps": [
+          {
+            "start": 53684,
+            "end": 54394
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.06,
+        "text": "other good news",
+        "timestamps": [
+          {
+            "start": 66404,
+            "end": 67290
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "new phone",
+        "timestamps": [
+          {
+            "start": 92876,
+            "end": 93762
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "surgery",
+        "timestamps": [
+          {
+            "start": 37724,
+            "end": 38314
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "phone company",
+        "timestamps": [
+          {
+            "start": 91244,
+            "end": 91746
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "front",
+        "timestamps": [
+          {
+            "start": 19004,
+            "end": 19158
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.05,
+        "text": "new gasket",
+        "timestamps": [
+          {
+            "start": 8816,
+            "end": 9478
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.04,
+        "text": "new team",
+        "timestamps": [
+          {
+            "start": 85124,
+            "end": 85940
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.04,
+        "text": "undergrad",
+        "timestamps": [
+          {
+            "start": 73376,
+            "end": 74146
+          }
+        ]
+      },
+      {
+        "count": 1,
+        "rank": 0.04,
+        "text": "people",
+        "timestamps": [
+          {
+            "start": 71828,
+            "end": 72246
+          }
+        ]
+      }
+    ]
+  },
+  "auto_highlights": true,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "filter_profanity": true,
+  "redact_pii": true,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": "mp3",
+  "redact_pii_policies": [
+    "drug",
+    "injury",
+    "person_name",
+    "money_amount"
+  ],
+  "redact_pii_sub": "hash",
+  "speaker_labels": true,
+  "content_safety": true,
+  "iab_categories": true,
+  "content_safety_labels": {
+    "status": "success",
+    "results": [
+      {
+        "text": "You will never believe what happened to me last week. My SUV broke down, so I had to send it to an auto shop to get a new gasket installed. Yesterday I was walking in South Boston to pick the car up and some guy got thrown through the window of a pub right in front of me. A few guys had been drinking and they got into an argument about the Red Sox, which resulted in a fight.",
+        "labels": [
+          {
+            "label": "alcohol",
+            "confidence": 0.9591399431228638,
+            "severity": 0.58509361743927
+          }
+        ],
+        "timestamp": {
+          "start": 1150,
+          "end": 26480
+        }
+      }
+    ],
+    "summary": {
+      "accidents": 0.2611353717731301,
+      "alcohol": 0.46347422408861444,
+      "crime_violence": 0.27030136438470115
+    },
+    "severity_score_summary": {
+      "accidents": {
+        "low": 0.0,
+        "medium": 1.0,
+        "high": 0.0
+      },
+      "alcohol": {
+        "low": 0.0,
+        "medium": 1.0,
+        "high": 0.0
+      },
+      "crime_violence": {
+        "low": 0.0,
+        "medium": 0.5499324530793189,
+        "high": 0.45006754692068107
+      }
+    }
+  },
+  "iab_categories_result": {
+    "status": "success",
+    "results": [
+      {
+        "text": "You will never believe what happened to me last week. My SUV broke down, so I had to send it to an auto shop to get a new gasket installed. Yesterday I was walking in South Boston to pick the car up and some guy got thrown through the window of a pub right in front of me. A few guys had been drinking and they got into an argument about the Red Sox, which resulted in a fight.",
+        "labels": [
+          {
+            "relevance": 0.6741036772727966,
+            "label": "Automotive>AutoSafety"
+          },
+          {
+            "relevance": 0.11231513321399689,
+            "label": "Automotive>AutoTechnology>AutoSafetyTechnologies"
+          },
+          {
+            "relevance": 0.10676974058151245,
+            "label": "Automotive>AutoRecalls"
+          },
+          {
+            "relevance": 0.018823670223355293,
+            "label": "Automotive>AutoType>DriverlessCars"
+          },
+          {
+            "relevance": 0.008207558654248714,
+            "label": "Automotive>AutoInsurance"
+          },
+          {
+            "relevance": 0.005906411446630955,
+            "label": "Automotive>AutoBuyingAndSelling"
+          },
+          {
+            "relevance": 0.0042215874418616295,
+            "label": "Automotive>Road-SideAssistance"
+          },
+          {
+            "relevance": 0.0037466625217348337,
+            "label": "PersonalFinance>Insurance>MotorInsurance"
+          },
+          {
+            "relevance": 0.0032981669064611197,
+            "label": "Automotive>AutoBodyStyles>SUV"
+          },
+          {
+            "relevance": 0.0032693722750991583,
+            "label": "MedicalHealth>DiseasesAndConditions>Injuries"
+          }
+        ],
+        "timestamp": {
+          "start": 1150,
+          "end": 26480
+        }
+      },
+      {
+        "text": "When I went to break up the fight, one of the guys accidentally hit me with his elbow in the face, so I fell back and ##### ## #####. I went to the emergency room and had to get surgery, which sucks because I have to wear a cast for two weeks and it cost me almost $#,###.",
+        "labels": [
+          {
+            "relevance": 0.9351635575294495,
+            "label": "MedicalHealth>DiseasesAndConditions>Injuries"
+          },
+          {
+            "relevance": 0.16327834129333496,
+            "label": "MedicalHealth>DiseasesAndConditions>BoneAndJointConditions"
+          },
+          {
+            "relevance": 0.059357427060604095,
+            "label": "Sports>Boxing"
+          },
+          {
+            "relevance": 0.019012920558452606,
+            "label": "MedicalHealth>Surgery"
+          },
+          {
+            "relevance": 0.015800192952156067,
+            "label": "MedicalHealth>DiseasesAndConditions>Ear,NoseAndThroatConditions"
+          },
+          {
+            "relevance": 0.011763731949031353,
+            "label": "MedicalHealth>CosmeticMedicalServices"
+          },
+          {
+            "relevance": 0.0035495294723659754,
+            "label": "MedicalHealth>DiseasesAndConditions>Injuries>FirstAid"
+          },
+          {
+            "relevance": 0.0035329037345945835,
+            "label": "MedicalHealth>DiseasesAndConditions>FootHealth"
+          },
+          {
+            "relevance": 0.0022021427284926176,
+            "label": "Sports>Wrestling"
+          },
+          {
+            "relevance": 0.001025608042255044,
+            "label": "Sports>MartialArts"
+          }
+        ],
+        "timestamp": {
+          "start": 27170,
+          "end": 44000
+        }
+      },
+      {
+        "text": "My wrist still feels like s***, and I've had to take ##### all week. Besides that, things are pretty good. I started my master's degree in Political Science, which I'm excited about. The school has a great program, and I've already met a lot of good professors. After the program, I'm going to go to law school, so it will help prepare me for that.",
+        "labels": [
+          {
+            "relevance": 0.13651122152805328,
+            "label": "Education>CollegeEducation>PostgraduateEducation"
+          },
+          {
+            "relevance": 0.10536418110132217,
+            "label": "Education>CollegeEducation>UndergraduateEducation"
+          },
+          {
+            "relevance": 0.04139658063650131,
+            "label": "BusinessAndFinance>Business>BusinessAdministration"
+          },
+          {
+            "relevance": 0.00925616454333067,
+            "label": "NewsAndPolitics>Politics"
+          },
+          {
+            "relevance": 0.005244640167802572,
+            "label": "EventsAndAttractions>PoliticalEvent"
+          },
+          {
+            "relevance": 0.003055895445868373,
+            "label": "Education>CollegeEducation"
+          },
+          {
+            "relevance": 0.0022585371043533087,
+            "label": "BusinessAndFinance>Industries>LegalServicesIndustry"
+          },
+          {
+            "relevance": 0.0018457787809893489,
+            "label": "NewsAndPolitics>Politics>PoliticalIssues"
+          },
+          {
+            "relevance": 0.0017478889785706997,
+            "label": "EventsAndAttractions>PersonalCelebrations&LifeEvents>Graduation"
+          },
+          {
+            "relevance": 0.001129353535361588,
+            "label": "Education>CollegeEducation>PostgraduateEducation>ProfessionalSchool"
+          }
+        ],
+        "timestamp": {
+          "start": 44510,
+          "end": 65886
+        }
+      },
+      {
+        "text": "The other good news is that I get to keep playing basketball while I'm in school. Usually people stop playing after undergrad, but I get to keep playing while I earn my degree, which is great. The program has a ton of good nutrition and physical therapy resources, too. I'm really excited to start playing on my new team. As for this weekend, I don't have much going on. I have to call the phone company to see if I can get a new phone.",
+        "labels": [
+          {
+            "relevance": 0.9152589440345764,
+            "label": "Sports>CollegeSports>CollegeBasketball"
+          },
+          {
+            "relevance": 0.9090262651443481,
+            "label": "Sports>Basketball"
+          },
+          {
+            "relevance": 0.07861897349357605,
+            "label": "Sports>CollegeSports"
+          },
+          {
+            "relevance": 0.008631161414086819,
+            "label": "HealthyLiving>FitnessAndExercise>ParticipantSports"
+          },
+          {
+            "relevance": 0.003469237592071295,
+            "label": "Sports>CollegeSports>CollegeBaseball"
+          },
+          {
+            "relevance": 0.0017549159238114953,
+            "label": "Sports"
+          },
+          {
+            "relevance": 0.0015245998511090875,
+            "label": "HealthyLiving>FitnessAndExercise"
+          },
+          {
+            "relevance": 0.0011647336650639772,
+            "label": "Sports>Cheerleading"
+          },
+          {
+            "relevance": 0.0007237482350319624,
+            "label": "Sports>Bodybuilding"
+          },
+          {
+            "relevance": 0.0006059870356693864,
+            "label": "Sports>DisabledSports"
+          }
+        ],
+        "timestamp": {
+          "start": 66068,
+          "end": 93762
+        }
+      },
+      {
+        "text": "The battery on my phone is broken, so I want to get it replaced. What are you doing this weekend?",
+        "labels": [
+          {
+            "relevance": 0.695193350315094,
+            "label": "Technology&Computing>ConsumerElectronics>Smartphones"
+          },
+          {
+            "relevance": 0.00859430618584156,
+            "label": "BusinessAndFinance>Industries>TelecommunicationsIndustry"
+          },
+          {
+            "relevance": 0.00632557924836874,
+            "label": "PersonalFinance>HomeUtilities>PhoneServices"
+          },
+          {
+            "relevance": 0.0019079000921919942,
+            "label": "Travel>TravelType>DayTrips"
+          },
+          {
+            "relevance": 0.0017095169750973582,
+            "label": "Technology&Computing>ConsumerElectronics>TabletsAndE-readers"
+          },
+          {
+            "relevance": 0.0014322971692308784,
+            "label": "Careers>RemoteWorking"
+          },
+          {
+            "relevance": 0.001061475370079279,
+            "label": "Travel>TravelType>FamilyTravel"
+          },
+          {
+            "relevance": 0.0008510922198183835,
+            "label": "MedicalHealth>DiseasesAndConditions>EndocrineAndMetabolicDiseases>Menopause"
+          },
+          {
+            "relevance": 0.0008199199801310897,
+            "label": "Travel>TravelType>Cruises"
+          },
+          {
+            "relevance": 0.0007131609600037336,
+            "label": "FamilyAndRelationships>Dating"
+          }
+        ],
+        "timestamp": {
+          "start": 93956,
+          "end": 99430
+        }
+      }
+    ],
+    "summary": {
+      "MedicalHealth>DiseasesAndConditions>Injuries": 1.0,
+      "Sports>CollegeSports>CollegeBasketball": 0.9752611517906189,
+      "Sports>Basketball": 0.9687691926956177,
+      "Technology&Computing>ConsumerElectronics>Smartphones": 0.7409762144088745,
+      "Automotive>AutoSafety": 0.7185451984405518,
+      "MedicalHealth>DiseasesAndConditions>BoneAndJointConditions": 0.1749143749475479,
+      "Education>CollegeEducation>PostgraduateEducation": 0.14552389085292816,
+      "Automotive>AutoTechnology>AutoSafetyTechnologies": 0.11995891481637955,
+      "Automotive>AutoRecalls": 0.11385084688663483,
+      "Education>CollegeEducation>UndergraduateEducation": 0.11231876164674759,
+      "Sports>CollegeSports": 0.08391721546649933,
+      "Sports>Boxing": 0.06388098001480103,
+      "BusinessAndFinance>Business>BusinessAdministration": 0.04422365501523018,
+      "MedicalHealth>Surgery": 0.020383259281516075,
+      "Automotive>AutoType>DriverlessCars": 0.02020467445254326,
+      "MedicalHealth>DiseasesAndConditions>Ear,NoseAndThroatConditions": 0.017214931547641754,
+      "MedicalHealth>CosmeticMedicalServices": 0.012616134248673916,
+      "NewsAndPolitics>Politics": 0.00994940847158432,
+      "HealthyLiving>FitnessAndExercise>ParticipantSports": 0.00965828262269497,
+      "BusinessAndFinance>Industries>TelecommunicationsIndustry": 0.009360285475850105
+    }
+  },
+  "language_detection": true,
+  "custom_spelling": null,
+  "disfluencies": false,
+  "sentiment_analysis": "true",
+  "auto_chapters": "true",
+  "chapters": [
+    {
+      "summary": "After his SUV broke down, he had to go to an auto shop to get a new gasket installed. Yesterday he was walking in South Boston to pick the car up, and some guy got thrown through the window of a pub right in front of him. One of the guys accidentally hit him with his elbow in the face, so he fell back and hurt his wrist. He had to wear a cast for two weeks, and it cost him almost $1000. Besides that, he started his master's degree in political science, and he's excited about the program. He's also going to play basketball for his new team while earning his degree.",
+      "headline": "Yesterday he was walking in South Boston to pick the car up, and some guy got thrown through the window of a pub.",
+      "gist": "What's up jack.",
+      "start": 1150,
+      "end": 99430
+    }
+  ],
+  "sentiment_analysis_results": [
+    {
+      "text": "You will never believe what happened to me last week.",
+      "start": 1150,
+      "end": 4674,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.5470982193946838,
+      "speaker": "A"
+    },
+    {
+      "text": "My SUV broke down, so I had to send it to an auto shop to get a new gasket installed.",
+      "start": 4772,
+      "end": 10410,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8434518575668335,
+      "speaker": "A"
+    },
+    {
+      "text": "Yesterday I was walking in South Boston to pick the car up and some guy got thrown through the window of a pub right in front of me.",
+      "start": 10730,
+      "end": 19940,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8275220990180969,
+      "speaker": "A"
+    },
+    {
+      "text": "A few guys had been drinking and they got into an argument about the Red Sox, which resulted in a fight.",
+      "start": 20510,
+      "end": 26480,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.5192302465438843,
+      "speaker": "A"
+    },
+    {
+      "text": "When I went to break up the fight, one of the guys accidentally hit me with his elbow in the face, so I fell back and ##### ## #####.",
+      "start": 27170,
+      "end": 34950,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7120354771614075,
+      "speaker": "A"
+    },
+    {
+      "text": "I went to the emergency room and had to get surgery, which sucks because I have to wear a cast for two weeks and it cost me almost $#,###.",
+      "start": 35390,
+      "end": 44000,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9693838953971863,
+      "speaker": "A"
+    },
+    {
+      "text": "My wrist still feels like s***, and I've had to take ##### all week.",
+      "start": 44510,
+      "end": 49040,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9545658230781555,
+      "speaker": "A"
+    },
+    {
+      "text": "Besides that, things are pretty good.",
+      "start": 49430,
+      "end": 51858,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9672850966453552,
+      "speaker": "A"
+    },
+    {
+      "text": "I started my master's degree in Political Science, which I'm excited about.",
+      "start": 52004,
+      "end": 55818,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9872495532035828,
+      "speaker": "A"
+    },
+    {
+      "text": "The school has a great program, and I've already met a lot of good professors.",
+      "start": 55964,
+      "end": 60030,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9897799491882324,
+      "speaker": "A"
+    },
+    {
+      "text": "After the program, I'm going to go to law school, so it will help prepare me for that.",
+      "start": 60710,
+      "end": 65886,
+      "sentiment": "POSITIVE",
+      "confidence": 0.5437594652175903,
+      "speaker": "A"
+    },
+    {
+      "text": "The other good news is that I get to keep playing basketball while I'm in school.",
+      "start": 66068,
+      "end": 70520,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9578251838684082,
+      "speaker": "A"
+    },
+    {
+      "text": "Usually people stop playing after undergrad, but I get to keep playing while I earn my degree, which is great.",
+      "start": 70850,
+      "end": 77840,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9174498319625854,
+      "speaker": "A"
+    },
+    {
+      "text": "The program has a ton of good nutrition and physical therapy resources, too.",
+      "start": 78170,
+      "end": 82520,
+      "sentiment": "POSITIVE",
+      "confidence": 0.956576943397522,
+      "speaker": "A"
+    },
+    {
+      "text": "I'm really excited to start playing on my new team.",
+      "start": 82850,
+      "end": 85940,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9917669892311096,
+      "speaker": "A"
+    },
+    {
+      "text": "As for this weekend, I don't have much going on.",
+      "start": 86810,
+      "end": 90090,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.562444806098938,
+      "speaker": "A"
+    },
+    {
+      "text": "I have to call the phone company to see if I can get a new phone.",
+      "start": 90260,
+      "end": 93762,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6888464689254761,
+      "speaker": "A"
+    },
+    {
+      "text": "The battery on my phone is broken, so I want to get it replaced.",
+      "start": 93956,
+      "end": 97870,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9605026841163635,
+      "speaker": "A"
+    },
+    {
+      "text": "What are you doing this weekend?",
+      "start": 98050,
+      "end": 99430,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8970483541488647,
+      "speaker": "A"
+    }
+  ],
+  "entity_detection": "true",
+  "entities": [
+    {
+      "entity_type": "location",
+      "text": "South Boston",
+      "start": 12884,
+      "end": 13678
+    },
+    {
+      "entity_type": "organization",
+      "text": "Red Sox",
+      "start": 24044,
+      "end": 24718
+    },
+    {
+      "entity_type": "injury",
+      "text": "broke my wrist",
+      "start": 33812,
+      "end": 34950
+    },
+    {
+      "entity_type": "organization",
+      "text": "emergency room",
+      "start": 36224,
+      "end": 36990
+    },
+    {
+      "entity_type": "medical_process",
+      "text": "surgery",
+      "start": 37724,
+      "end": 38314
+    },
+    {
+      "entity_type": "money_amount",
+      "text": "1,000",
+      "start": 42656,
+      "end": 44000
+    },
+    {
+      "entity_type": "drug",
+      "text": "Advil",
+      "start": 47660,
+      "end": 48154
+    },
+    {
+      "entity_type": "occupation",
+      "text": "Political Science",
+      "start": 53684,
+      "end": 54394
+    },
+    {
+      "entity_type": "occupation",
+      "text": "professors",
+      "start": 59192,
+      "end": 60030
+    },
+    {
+      "entity_type": "occupation",
+      "text": "law",
+      "start": 62924,
+      "end": 63114
+    },
+    {
+      "entity_type": "medical_process",
+      "text": "physical therapy",
+      "start": 80504,
+      "end": 81274
+    }
+  ]
+}
