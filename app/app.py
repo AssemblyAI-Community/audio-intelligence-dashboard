@@ -292,9 +292,8 @@ with gr.Blocks(css=css) as demo:
     radio = gr.Radio(["Audio File", "Record Audio"], label="Audio Source", value="Audio File")
 
     # Audio object for both file and microphone data
-    with gr.Box():
-        audio_file = gr.Audio()
-        mic_recording = gr.Audio(source="microphone", visible=False)
+    audio_file = gr.Audio()
+    mic_recording = gr.Audio(source="microphone", visible=False)
 
     # Audio wave plot
     audio_wave = gr.Plot(plot.value)
