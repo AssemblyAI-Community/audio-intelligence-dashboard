@@ -245,16 +245,6 @@ with open('styles.css', 'r') as f:
     css = f.read()
 
 with gr.Blocks(css=css) as demo:
-    '''
-    gr.HTML("<script>"
-            "window.addEventListener('load', function () {"
-            "gradioURL = window.location.href"
-            "if (!gradioURL.endsWith('?__theme=light')) {"
-            "window.location.replace(gradioURL + '?__theme=light');"
-            "}"
-            "});"
-            "</script>")
-    '''
     # Load image
     gr.HTML('<a href="https://www.assemblyai.com/"><img src="file/images/logo.png" class="logo"></a>')
 
