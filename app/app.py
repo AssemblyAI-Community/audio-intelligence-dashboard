@@ -59,13 +59,11 @@ def set_lang_vis(transcription_options):
     if 'Automatic Language Detection' in transcription_options:
         text = w
         return [gr.Dropdown.update(visible=False),
-                gr.Textbox.update(visible=True),
-                text]
+                gr.Textbox.update(value=text, visible=True)]
     else:
         text = ""
         return [gr.Dropdown.update(visible=True),
-                gr.Textbox.update(visible=False),
-                text]
+                gr.Textbox.update(value=text, visible=False)]
 
 
 def option_verif(language, selected_tran_opts, selected_audint_opts):
@@ -391,7 +389,7 @@ with gr.Blocks(css=css) as demo:
     transcription_options.change(
         fn=set_lang_vis,
         inputs=transcription_options,
-        outputs=[language, auto_lang_detect_warning, auto_lang_detect_warning])
+        outputs=[language, auto_lang_detect_warning])
 
     # Changing language deselects certain Tran / Audio Intelligence options
     language.change(
