@@ -126,7 +126,7 @@ def audint_selected(language, audio_intelligence_selector):
     return [selected_audint_opts, selected_audint_opts]
 
 
-def create_ouput(r, paras, language, transc_opts=None, audint_opts=None):
+def create_output(r, paras, language, transc_opts=None, audint_opts=None):
     """From a transcript response, return all outputs for audio intelligence"""
     if transc_opts is None:
         transc_opts = ['Automatic Language Detection', 'Speaker Labels', 'Filter Profanity']
@@ -225,7 +225,7 @@ def submit_to_AAI(api_key,
     # Fetch paragraphs of transcript
     transc_id = r['id']
     paras = make_paras_string(transc_id, header)
-    return create_ouput(r, paras, language, transcription_options, audio_intelligence_selector)
+    return create_output(r, paras, language, transcription_options, audio_intelligence_selector)
 
 
 def example_output(language):
@@ -236,7 +236,7 @@ def example_output(language):
     with open('../example_data/response.json', 'r') as f:
         r = json.load(f)
 
-    return create_ouput(r, paras, language)
+    return create_output(r, paras, language)
 
 
 with open('styles.css', 'r') as f:
