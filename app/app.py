@@ -249,7 +249,7 @@ with gr.Blocks(css=css) as demo:
     # Load descriptions
     gr.HTML("<h1 class='title'>Audio Intelligence Dashboard</h1>"
             "<br>"
-            "<p>Check out the [BLOG NAME] blog to learn how to build this dashboard.</p>")
+            "<p>Check out the <a href=\"www.assemblyai.com/blog/how-to-build-an-audio-intelligence-dashboard-with-gradio/\">How to Build an Audio Intelligence Dashboard with Gradio</a> blog to learn how to build this dashboard.</p>")
 
     gr.HTML("<h1 class='title'>Directions</h1>"
             "<p>To use this dashboard:</p>"
